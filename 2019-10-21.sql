@@ -1,0 +1,1 @@
+alter table tb_md_economic_indicators_item add  `mc_id` int(11)  DEFAULT NULL COMMENT '比较法id'  ;

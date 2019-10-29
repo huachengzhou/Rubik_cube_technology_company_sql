@@ -1,0 +1,5 @@
+
+drop table tb_declare_build_economic_indicators_center ;
+drop table tb_declare_build_economic_indicators ;
+drop table tb_declare_economic_indicators_content ;
+drop table tb_declare_economic_indicators_head ;
